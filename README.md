@@ -18,15 +18,15 @@ The data was gathered from www.Data.gov by the The Western Pennsylvania Regional
 # Transform:
 
 We've utilized Pandas to:
-- Read the CSV files.
-- Create DataFrames.
-- Dropped all unused columns.
+* Read the CSV files.
+* Create DataFrames.
+* Dropped all unused columns.
 
 
 # Load:
 we've used two methods to create and load the database:
-- mysql
-- sqlalchemy
+* mysql
+* sqlalchemy
 
 
 
