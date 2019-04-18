@@ -4,7 +4,7 @@
 
 **Team Members:**
 - Hisham Hammour
-- Mohammed Ahsan
+- Muhammad Ahsan
 
 
 ## Extract:
@@ -20,6 +20,7 @@ Data collected is for 2010 [educational](https://data.wprdc.org/dataset/40188e1c
 We've utilized Pandas to:
 * Read the CSV files.
 * Create DataFrames.
+* Merge Dataframes.
 * Dropped all unused columns.
 
 
