@@ -32,9 +32,12 @@ we've used two methods to create and load the database:
 
 <img src="images/Ver1_load_data.png">
 
+<img src="images/Ver1_query.png">
+
 **sqlalchemy:**
 
 <img src="images/Ver2_load_data.png">
 
+<img src="images/Ver2_query.png">
 
 
