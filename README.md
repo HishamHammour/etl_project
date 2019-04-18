@@ -1,32 +1,32 @@
 # etl_project
 ETL - Mini project
 
-Extract, Transform, and Load Data
+# Extract, Transform, and Load Data
 
 Team Members:
 - Hisham Hammour
 - Mohammed Ahsan
 
 
-Extract:
+# Extract:
 
 The data was gathered from www.Data.gov by the The Western Pennsylvania Regional Data Center.
 
 2010 educational and employment data for the all the neighborhood in Allengheny county area.
 
 
-Transform:
+# Transform:
 
 We've utilized Pandas to:
-- Read the CSV files.
-- Create DataFrames.
-- Dropped all unused columns.
+* Read the CSV files.
+* Create DataFrames.
+* Dropped all unused columns.
 
 
-Load:
+# Load:
 we've used two methods to create and load the database:
-- mysql
-- sqlalchemy
+* mysql
+* sqlalchemy
 
 
 
