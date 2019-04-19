@@ -1,5 +1,8 @@
 # ETL - Mini project
 
+# Description
+The reason of choosing this particular data is to do a correlation between education level and employment in Allengheny county area in Western Pennsylvania and to present the user with a table that is easy to read and plot a chart.
+
 ## Extract, Transform, and Load Data
 
 **Team Members:**
