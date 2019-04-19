@@ -5,7 +5,7 @@
 - Muhammad Ahsan
 
 # Description
-The reason of choosing this particular data is to do a correlation between education level and employment in Allengheny county area in Western Pennsylvania and to present the user with a table that is easy to read and plot a chart.
+The reason of choosing this particular data is to do a correlation between education level and employment in Allegheny county area in Western Pennsylvania and to present the user with a table that is easy to read and plot a chart.
 
 ## Extract, Transform, and Load Data
 
@@ -15,7 +15,7 @@ The reason of choosing this particular data is to do a correlation between educa
 
 The data was gathered from www.Data.gov by the The Western Pennsylvania Regional Data Center.
 
-Data collected is for 2010 [educational](https://data.wprdc.org/dataset/40188e1c-6d2e-4f20-9391-607bd3054949/resource/f7b19c6c-aa66-419b-b0e1-9998d7ddfcbc/download/education-income.csv) and [employment]( https://data.wprdc.org/dataset/40188e1c-6d2e-4f20-9391-607bd3054949/resource/fd095080-d32c-4669-8b62-c80f4f32723a/download/employment.csv) data for the all the neighborhood in Allengheny county area.
+Data collected is for 2010 [educational](https://data.wprdc.org/dataset/40188e1c-6d2e-4f20-9391-607bd3054949/resource/f7b19c6c-aa66-419b-b0e1-9998d7ddfcbc/download/education-income.csv) and [employment]( https://data.wprdc.org/dataset/40188e1c-6d2e-4f20-9391-607bd3054949/resource/fd095080-d32c-4669-8b62-c80f4f32723a/download/employment.csv) data for the all the neighborhood in Allegheny county area.
 
 
 
